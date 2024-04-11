@@ -1,0 +1,4 @@
+// Start inserting data in batches
+insertDataInBatch(0);
+
+ 
